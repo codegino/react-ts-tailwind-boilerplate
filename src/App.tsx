@@ -1,6 +1,6 @@
-import React from "react";
+import React, {FC} from 'react';
 
-const App = () => {
+const App: FC = () => {
   return (
     <div className="h-screen flex justify-center items-center">
       <h3 className="text-red-800">react-typescript-tailwind boilerplate!</h3>

@@ -45,7 +45,7 @@
     "@types/react-dom": "18.0.2",
     "@typescript-eslint/eslint-plugin": "5.20.0",
     "@typescript-eslint/parser": "5.20.0",
-    "autoprefixer": "10.4.4",
+    "autoprefixer": "10.4.5",
     "concurrently": "7.1.0",
     "cz-conventional-changelog": "3.3.0",
     "eslint": "8.14.0",
